@@ -1,2 +1,2 @@
-# displco.github.io
+# Displ.co
 Landing page for Displ project
